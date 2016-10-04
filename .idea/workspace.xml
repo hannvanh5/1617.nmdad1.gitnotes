@@ -2,7 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f505dcba-7dbf-4fd1-8a46-8da061552a24" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/readme.md" afterPath="$PROJECT_DIR$/resume/readme.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01/.gitkeep" afterPath="$PROJECT_DIR$/lectures/01/.gitkeep" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/02/.gitkeep" afterPath="$PROJECT_DIR$/lectures/02/.gitkeep" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/03/.gitkeep" afterPath="$PROJECT_DIR$/lectures/03/.gitkeep" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/04/.gitkeep" afterPath="$PROJECT_DIR$/lectures/04/.gitkeep" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/05/.gitkeep" afterPath="$PROJECT_DIR$/lectures/05/.gitkeep" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/06/.gitkeep" afterPath="$PROJECT_DIR$/lectures/06/.gitkeep" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/07/.gitkeep" afterPath="$PROJECT_DIR$/lectures/07/.gitkeep" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/08/.gitkeep" afterPath="$PROJECT_DIR$/lectures/08/.gitkeep" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/09/.gitkeep" afterPath="$PROJECT_DIR$/lectures/09/.gitkeep" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/10/.gitkeep" afterPath="$PROJECT_DIR$/lectures/10/.gitkeep" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/11/.gitkeep" afterPath="$PROJECT_DIR$/lectures/11/.gitkeep" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/12/.gitkeep" afterPath="$PROJECT_DIR$/lectures/12/.gitkeep" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/13/.gitkeep" afterPath="$PROJECT_DIR$/lectures/13/.gitkeep" />
     </list>
     <ignored path="1617.nmdad1.gitnotes.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -23,7 +35,7 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name=".gitkeep" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/04/.gitkeep">
+        <entry file="file://$PROJECT_DIR$/lectures/04/.gitkeep">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -33,7 +45,7 @@
         </entry>
       </file>
       <file leaf-file-name=".gitkeep" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/05/.gitkeep">
+        <entry file="file://$PROJECT_DIR$/lectures/05/.gitkeep">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -43,7 +55,7 @@
         </entry>
       </file>
       <file leaf-file-name=".gitkeep" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/06/.gitkeep">
+        <entry file="file://$PROJECT_DIR$/lectures/06/.gitkeep">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -53,7 +65,7 @@
         </entry>
       </file>
       <file leaf-file-name=".gitkeep" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/07/.gitkeep">
+        <entry file="file://$PROJECT_DIR$/lectures/07/.gitkeep">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -63,7 +75,7 @@
         </entry>
       </file>
       <file leaf-file-name=".gitkeep" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/08/.gitkeep">
+        <entry file="file://$PROJECT_DIR$/lectures/08/.gitkeep">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -73,7 +85,7 @@
         </entry>
       </file>
       <file leaf-file-name=".gitkeep" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/09/.gitkeep">
+        <entry file="file://$PROJECT_DIR$/lectures/09/.gitkeep">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -83,7 +95,7 @@
         </entry>
       </file>
       <file leaf-file-name=".gitkeep" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/10/.gitkeep">
+        <entry file="file://$PROJECT_DIR$/lectures/10/.gitkeep">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -93,7 +105,7 @@
         </entry>
       </file>
       <file leaf-file-name=".gitkeep" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/11/.gitkeep">
+        <entry file="file://$PROJECT_DIR$/lectures/11/.gitkeep">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -103,7 +115,7 @@
         </entry>
       </file>
       <file leaf-file-name=".gitkeep" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/12/.gitkeep">
+        <entry file="file://$PROJECT_DIR$/lectures/12/.gitkeep">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -113,7 +125,7 @@
         </entry>
       </file>
       <file leaf-file-name=".gitkeep" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/13/.gitkeep">
+        <entry file="file://$PROJECT_DIR$/lectures/13/.gitkeep">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -204,20 +216,6 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="1617.nmdad1.gitnotes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="1617.nmdad1.gitnotes" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="03" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
@@ -230,6 +228,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Hannes\Code\1617.nmdad1.gitnotes\lectures" />
       <recent name="C:\Users\Hannes\Code\1617.nmdad1.gitnotes\resume" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
@@ -289,12 +288,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1475566328069</updated>
-      <workItem from="1475566332615" duration="1150000" />
+      <workItem from="1475566332615" duration="1737000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1150000" />
+    <option name="totallyTimeSpent" value="1737000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -346,7 +345,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/01/.gitkeep">
+    <entry file="file://$PROJECT_DIR$/lectures/01/.gitkeep">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -354,7 +353,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/02/.gitkeep">
+    <entry file="file://$PROJECT_DIR$/lectures/02/.gitkeep">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -362,7 +361,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/03/.gitkeep">
+    <entry file="file://$PROJECT_DIR$/lectures/03/.gitkeep">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -370,7 +369,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/04/.gitkeep">
+    <entry file="file://$PROJECT_DIR$/lectures/04/.gitkeep">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -378,7 +377,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/05/.gitkeep">
+    <entry file="file://$PROJECT_DIR$/lectures/05/.gitkeep">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -386,7 +385,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/06/.gitkeep">
+    <entry file="file://$PROJECT_DIR$/lectures/06/.gitkeep">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -394,7 +393,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/07/.gitkeep">
+    <entry file="file://$PROJECT_DIR$/lectures/07/.gitkeep">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -402,7 +401,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/08/.gitkeep">
+    <entry file="file://$PROJECT_DIR$/lectures/08/.gitkeep">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -410,7 +409,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/09/.gitkeep">
+    <entry file="file://$PROJECT_DIR$/lectures/09/.gitkeep">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -418,7 +417,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/10/.gitkeep">
+    <entry file="file://$PROJECT_DIR$/lectures/10/.gitkeep">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -426,7 +425,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/11/.gitkeep">
+    <entry file="file://$PROJECT_DIR$/lectures/11/.gitkeep">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -434,7 +433,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/12/.gitkeep">
+    <entry file="file://$PROJECT_DIR$/lectures/12/.gitkeep">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -442,7 +441,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/13/.gitkeep">
+    <entry file="file://$PROJECT_DIR$/lectures/13/.gitkeep">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
