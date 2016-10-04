@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f505dcba-7dbf-4fd1-8a46-8da061552a24" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resume/readme.md" afterPath="$PROJECT_DIR$/resume/readme.md" />
-    </list>
+    <list default="true" id="f505dcba-7dbf-4fd1-8a46-8da061552a24" name="Default" comment="" />
     <ignored path="1617.nmdad1.gitnotes.iws" />
     <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -280,15 +279,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1475566328069</updated>
-      <workItem from="1475566332615" duration="1830000" />
+      <workItem from="1475566332615" duration="2425000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1830000" />
+    <option name="totallyTimeSpent" value="2425000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
