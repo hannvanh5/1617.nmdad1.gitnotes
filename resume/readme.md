@@ -1,6 +1,1 @@
-NMDAD - I 
-
-************************************
-
-
-Git --
+Resumé Hannes Van Hijfte 
