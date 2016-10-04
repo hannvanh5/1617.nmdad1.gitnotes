@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f505dcba-7dbf-4fd1-8a46-8da061552a24" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02/.gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03/.gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04/.gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05/.gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06/.gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07/.gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08/.gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/09/.gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10/.gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/11/.gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/12/.gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/13/.gitkeep" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/readme.md" afterPath="$PROJECT_DIR$/resume/readme.md" />
     </list>
     <ignored path="1617.nmdad1.gitnotes.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -200,6 +189,20 @@
               <option name="myItemId" value="1617.nmdad1.gitnotes" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resume" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="1617.nmdad1.gitnotes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="1617.nmdad1.gitnotes" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -226,6 +229,9 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Hannes\Code\1617.nmdad1.gitnotes\resume" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Hannes\Code\1617.nmdad1.gitnotes" />
       <recent name="C:\Users\Hannes\Code\1617.nmdad1.gitnotes\02" />
@@ -283,12 +289,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1475566328069</updated>
-      <workItem from="1475566332615" duration="1059000" />
+      <workItem from="1475566332615" duration="1150000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1059000" />
+    <option name="totallyTimeSpent" value="1150000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -329,7 +335,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/readme.md">
+    <entry file="file://$PROJECT_DIR$/resume/readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="85">
