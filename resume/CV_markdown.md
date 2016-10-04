@@ -23,10 +23,10 @@ Ervaring
 Schoolbaan
 -----------
 
-School   | Opleiding|  Jaar
+School   | Opleiding|  Jaar|
 -------- | ---				| 
-Koninklijk Atheneum Zelzate | Humane Wetenschappen |  2007-2013
- Arteveldehogeschool Gent   | Grafische en digitale media| 2013-heden
+Koninklijk Atheneum Zelzate | Humane Wetenschappen |  2007-2013|
+ Arteveldehogeschool Gent   | Grafische en digitale media| 2013-heden|
      
 
 
