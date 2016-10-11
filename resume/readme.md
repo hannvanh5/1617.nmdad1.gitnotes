@@ -1,1 +1,0 @@
-Resumé Hannes Van Hijfte 
